@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import ScrollReveal from "./ScrollReveal";
 import cmsDashboard from "@/assets/dashboard-mockup.png";
 import player from "@/assets/android-media-player.jpg";
-import valencia from "@/assets/rvalencia.png";
+import valencia from "@/assets/rvalenciaa.png";
 import square from "@/assets/rsquare.png";
 import one from "@/assets/rone.png";
 import window from "@/assets/rwindow.png";
