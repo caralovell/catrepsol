@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import LogopostLogo from "./LogopostLogo";
-import situm from "@/assets/reepsol.png";
+import situm from "@/assets/reepsol.jfif";
 import hposh from "@/assets/maiin.png";
 
 const fadeUp = (delay: number) => ({
